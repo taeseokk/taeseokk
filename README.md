@@ -38,9 +38,8 @@
   <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white">
 </div>
 <hr>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=taeseokk&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="TaeSeok's github stats" /></a> | <a href="https://github.com/taeseokk/taeseokk"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taeseokk&layout=compact&theme=buefy&hide_border=true" /></a> |
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeseokk&theme=buefy&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeseokk&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac/jts0605](http://mazassumnida.wtf/api/generate_badge?boj=jts0605)](https://solved.ac/jts0605)
 
