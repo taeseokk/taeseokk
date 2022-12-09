@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,1,3,5,30&height=200&section=header&text=Tae%20Seok%20github&animation=fadeIn&fontSize=40&fontAlign=80)
+#### my_profile
+:man::man: 코딩테스트를 위한 연습 공간!!
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,1,5,30&height=200&section=header&text=Tae%20Seok%20github&animation=fadeIn&fontSize=40&fontAlign=80)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaeseokk&count_bg=%23BEE1F1&title_bg=%23DDCFE7&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
