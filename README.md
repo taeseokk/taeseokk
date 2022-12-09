@@ -2,8 +2,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaeseokk&count_bg=%23BEE1F1&title_bg=%23DDCFE7&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-  
-👀 about me 👀<br>
+### 👀 **about me** 👀<br>
+
  :black_small_square: BackEnd Eengineer<br>
  :black_small_square: 앞으로 발전해 나갈 Github 저장공간🔥<br><br >
 <div align=center>
