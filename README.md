@@ -5,7 +5,8 @@
 ### 👀 **about me** 👀<br>
 
  :black_small_square: BackEnd Eengineer<br>
- :black_small_square: 앞으로 발전해 나갈 Github 저장공간🔥<br><br >
+ :black_small_square: 앞으로 발전해 나갈 Github 저장공간🔥<br>
+ :black_small_square: 나만의 프로젝트 개발 및 코딩테스트 연습 공간 <br><br>
 <div align=center>
 :purple_heart: SNS list :purple_heart:
 
