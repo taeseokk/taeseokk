@@ -41,9 +41,8 @@
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=taeseokk&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="TaeSeok's github stats" /></a> | <a href="https://github.com/taeseokk/taeseokk"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taeseokk&layout=compact&theme=buefy&hide_border=true" /></a> 
 | ------------- | ------------- |
-
+<br>
 
 [![Solved.ac/jts0605](http://mazassumnida.wtf/api/generate_badge?boj=jts0605)](https://solved.ac/jts0605)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=taeseokk&theme=buefy&border_radius=3)](https://git.io/streak-stats)
 
