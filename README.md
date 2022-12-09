@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,1,5&height=200&section=header&text=Tae%20Seok%20github&animation=fadeIn&fontSize=40&fontAlign=80)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaeseokk&count_bg=%23BEE1F1&title_bg=%23DDCFE7&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaeseokk&count_bg=%23BEE1F1&title_bg=%23DDCFE7&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)&nbsp;&nbsp;&nbsp;
+[![Solved.ac/jts0605](http://mazassumnida.wtf/api/mini/generate_badge?boj=jts0605)](https://solved.ac/jts0605)
 
 ### 👀 **about me** 👀<br>
 
@@ -44,6 +45,6 @@
 | ------------- | ------------- |
 <br>
 
-<a>[![Solved.ac/jts0605](http://mazassumnida.wtf/api/generate_badge?boj=jts0605)](https://solved.ac/jts0605)</a>
-<a>[![GitHub Streak](https://streak-stats.demolab.com?user=taeseokk&theme=buefy&border_radius=3)](https://git.io/streak-stats)</a>
+[![Solved.ac/jts0605](http://mazassumnida.wtf/api/generate_badge?boj=jts0605)](https://solved.ac/jts0605)
+[![GitHub Streak](https://streak-stats.demolab.com?user=taeseokk&theme=buefy&border_radius=3)](https://git.io/streak-stats)
 
