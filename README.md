@@ -45,6 +45,7 @@
 | ------------- | ------------- |
 <br>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=taeseokk&theme=buefy&border_radius=2)](https://git.io/streak-stats)
 [![Solved.ac/jts0605](http://mazassumnida.wtf/api/generate_badge?boj=jts0605)](https://solved.ac/jts0605)
-[![GitHub Streak](https://streak-stats.demolab.com?user=taeseokk&theme=buefy&border_radius=2)](https://git.io/streak-stats)<br>
+<br>
 
