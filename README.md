@@ -12,7 +12,6 @@
 :purple_heart: SNS list :purple_heart:
 
 <a href="https://www.notion.so/TaeSeok-Portfolio-30b9865c6a4a4e06a9fb41c98e329c22" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
-<a href="https://www.instagram.com/taeseo_k" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:wjdxotjr383@naver.com)](mailto:wjdxotjr383@naver.com) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jts9865@gmail.com)](mailto:jts9865@gmail.com) 
 </div>
